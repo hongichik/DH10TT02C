@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3483db21-63d4-48d0-88cd-52bec0a51fc0" name="Changes" comment="bai diem trung binh">
-      <change afterPath="$PROJECT_DIR$/Lâm_24DH260092/thubai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lâm_24DH260092/DTB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lâm_24DH260092/DTB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lâm_24DH260092/Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lâm_24DH260092/Demo.py" afterDir="false" />
-    </list>
+    <list default="true" id="3483db21-63d4-48d0-88cd-52bec0a51fc0" name="Changes" comment="bai diem trung binh" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +102,7 @@
       <workItem from="1768915641266" duration="949000" />
       <workItem from="1768916629292" duration="1041000" />
       <workItem from="1768959752125" duration="3555000" />
+      <workItem from="1768965881263" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="lam test duong">
       <option name="closed" value="true" />
