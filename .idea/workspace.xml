@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3483db21-63d4-48d0-88cd-52bec0a51fc0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3483db21-63d4-48d0-88cd-52bec0a51fc0" name="Changes" comment="demo Van" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Van &lt;vann@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="38Vk4U74B5ESziA5uIXeGqQs6RD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,12 +36,13 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.test3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;nhom3&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lam/Documents/Python/DH10TT02C&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Python/DH10TT02C&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -49,12 +63,102 @@
       <option name="presentableId" value="Default" />
       <updated>1768891936606</updated>
       <workItem from="1768891939352" duration="42000" />
-      <workItem from="1768915577184" duration="22000" />
-      <workItem from="1768915619498" duration="18000" />
+      <workItem from="1768915824856" duration="627000" />
+      <workItem from="1768916718494" duration="983000" />
+      <workItem from="1768917718510" duration="260000" />
+      <workItem from="1768917992586" duration="58000" />
+      <workItem from="1768958204402" duration="17000" />
+      <workItem from="1768959845172" duration="211000" />
     </task>
+    <task id="LOCAL-00001" summary="vandemo">
+      <option name="closed" value="true" />
+      <created>1768916031508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768916031508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vandemo">
+      <option name="closed" value="true" />
+      <created>1768916116595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768916116595</updated>
+    </task>
+    <task id="LOCAL-00003" summary="baitesst">
+      <option name="closed" value="true" />
+      <created>1768916291528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768916291528</updated>
+    </task>
+    <task id="LOCAL-00004" summary="baitesst">
+      <option name="closed" value="true" />
+      <created>1768916848880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768916848880</updated>
+    </task>
+    <task id="LOCAL-00005" summary="baitesst">
+      <option name="closed" value="true" />
+      <created>1768917008466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768917008466</updated>
+    </task>
+    <task id="LOCAL-00006" summary="baitap1">
+      <option name="closed" value="true" />
+      <created>1768917651306</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768917651306</updated>
+    </task>
+    <task id="LOCAL-00007" summary="baitap1">
+      <option name="closed" value="true" />
+      <created>1768917831965</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768917831965</updated>
+    </task>
+    <task id="LOCAL-00008" summary="demo Van">
+      <option name="closed" value="true" />
+      <created>1768959899987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768959899987</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vandemo" />
+    <MESSAGE value="baitesst" />
+    <MESSAGE value="baitap1" />
+    <MESSAGE value="demo Van" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo Van" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DH10TT02C$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1768917493965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Văn_24DH260183" />
   </component>
 </project>
