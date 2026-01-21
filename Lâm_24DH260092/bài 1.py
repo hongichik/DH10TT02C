@@ -17,3 +17,4 @@ while True:
      break
  except ValueError:
     print("Vui long  nhap so hop le tu 0 den 10 : ")
+#baitap1
