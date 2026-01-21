@@ -16,4 +16,4 @@ while True:
      print("xep loai hoc tap",xl)
      break
  except ValueError:
-    print("Vui long  nhap so hop le tu 0 den 10 : ")
+    print("Vui long  nhap so hop le tu 0 den 10 :")
