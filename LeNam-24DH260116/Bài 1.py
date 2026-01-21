@@ -1,12 +1,17 @@
 try:
     dtb = int(input("Nhập điểm trung bình: "))
-    if dtb < 5:
-        print("Yếu")
-    elif dtb < 7:
-        print("Trung bình")
-    elif dtb < 8.5:
-        print("Khá")
+    if dtb <0 or dtb >10:
+     raise ValueError("")
     else:
-        print("Giỏi")
+        if dtb >= 8.5:
+            Loai = "Học sinh giỏi"
+        elif dtb >= 7:
+            Loai = "Học sinh khá"
+        elif dtb >= 5:
+            Loai = "học sinh trung bình"
+        else:
+            Loai = "Học sinh yếu"
+
+        print("Xếp loại: ",Loai)
 except ValueError:
     print("Vui lòng nhập số hợp lệ")
