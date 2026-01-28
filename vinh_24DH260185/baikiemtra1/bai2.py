@@ -1,4 +1,4 @@
-password = "Python123"
+password = "123"
 count = 0
 
 while count < 3:

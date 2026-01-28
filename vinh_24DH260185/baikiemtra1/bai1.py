@@ -1,7 +1,6 @@
 a = float(input("Nhập cạnh a: "))
 b = float(input("Nhập cạnh b "))
 c= float(input("Nhập cạnh c "))
-
 if a+b <= c or a+c <= b or b+c <= a:
      print("Không phải tam giác")
 else:
