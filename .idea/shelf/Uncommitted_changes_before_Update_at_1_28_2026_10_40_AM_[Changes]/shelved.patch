@@ -1,0 +1,47 @@
+Index: .idea/DH10TT02C.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/DH10TT02C.iml b/.idea/DH10TT02C.iml
+--- a/.idea/DH10TT02C.iml	(revision 98e21f5571a4ea6104b6e3b140ae28611ebd3869)
++++ b/.idea/DH10TT02C.iml	(date 1769570483597)
+@@ -2,6 +2,7 @@
+ <module type="PYTHON_MODULE" version="4">
+   <component name="NewModuleRootManager">
+     <content url="file://$MODULE_DIR$" />
++    <orderEntry type="jdk" jdkName="Python 3.14" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Black\">\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 98e21f5571a4ea6104b6e3b140ae28611ebd3869)
++++ b/.idea/misc.xml	(date 1769570483597)
+@@ -1,5 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="Black">
++    <option name="sdkName" value="Python 3.14" />
+   </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+diff --git a/thai_24DH260162/baikiemtra/bai1.py b/thai_24DH260162/bai1.py
+rename from thai_24DH260162/baikiemtra/bai1.py
+rename to thai_24DH260162/bai1.py
+diff --git a/thai_24DH260162/baikiemtra/bai3.py b/thai_24DH260162/bai3.py
+rename from thai_24DH260162/baikiemtra/bai3.py
+rename to thai_24DH260162/bai3.py
+diff --git a/thai_24DH260162/baikiemtra/bai2.py b/thai_24DH260162/bai2.py
+rename from thai_24DH260162/baikiemtra/bai2.py
+rename to thai_24DH260162/bai2.py
