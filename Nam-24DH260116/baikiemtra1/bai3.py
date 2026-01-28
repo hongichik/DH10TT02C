@@ -1,5 +1,4 @@
 n = int(input("Nhập số nguyên dương: "))
-
 if n <= 1:
     print("Không phải số nguyên tố")
 else:

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5419af6-e612-4428-813f-9f04d0036e8c" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1769608637792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769608637792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1769608650593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769608650593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1769608662820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769608662820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1769608728921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769608728921</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml" />
+  </component>
+</project>

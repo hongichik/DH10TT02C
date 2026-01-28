@@ -1,4 +1,4 @@
-password = "Aichobiet"
+password = "123"
 count = 0
 while count < 3:
     mk = input("Nhập mật khẩu: ")
