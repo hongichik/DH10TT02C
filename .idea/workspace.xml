@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17ff17a8-0f43-420c-abb1-b29347f2f302" name="Changes" comment="Bài tập 2 Ngay 28_01_2026">
+      <change afterPath="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra 1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra/bài 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra/bài 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra/bài 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DH10TT02C.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VINH-24DH260186" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra 1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nguyen Thanh Dat &lt;nguyenthanhdat21072006@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tansgodwin-cloud&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:hongichik/DH10TT02C.git&quot;,
+    &quot;accountId&quot;: &quot;1dd6a341-b1fb-4d63-a15e-80fbeda1dd87&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38rmwWm5hxaWigFIOsSe1MAqBw6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bài 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bài 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bài 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bài kiểm tra 1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ff17a8-0f43-420c-abb1-b29347f2f302" name="Changes" comment="" />
+      <created>1769566304570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769566304570</updated>
+      <workItem from="1769566308023" duration="5231000" />
+    </task>
+    <task id="LOCAL-00001" summary="Bài tập 2 Ngay 28_01_2026">
+      <option name="closed" value="true" />
+      <created>1769566553305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769566553305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bài tập 2 Ngay 28_01_2026">
+      <option name="closed" value="true" />
+      <created>1769566593827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769566593827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bài tập 1 Ngay 28_01_2026" />
+    <MESSAGE value="Bài tập 2 Ngay 28_01_2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bài tập 2 Ngay 28_01_2026" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DH10TT02C$bài_2.coverage" NAME="bài 2 Coverage Results" MODIFIED="1769570731767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bài_1.coverage" NAME="bài 1 Coverage Results" MODIFIED="1769570240759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bài_3.coverage" NAME="bài 3 Coverage Results" MODIFIED="1769571415966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VuDucTuan24DH260152/bài kiểm tra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bài_kim_tra_1.coverage" NAME="bài kiểm tra 1 Coverage Results" MODIFIED="1769568743903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VuDucTuan24DH260152" />
+  </component>
+</project>
