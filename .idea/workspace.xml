@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a1820d-aa39-4eb7-88f5-8064c7837097" name="Changes" comment="bài tập 1" />
+    <list default="true" id="24a1820d-aa39-4eb7-88f5-8064c7837097" name="Changes" comment="baiktra" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +229,31 @@
       <option name="project" value="LOCAL" />
       <updated>1769572077304</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1769584400563</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1769584400563</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1769584430814</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1769584430814</updated>
+    </task>
+    <task id="LOCAL-00018" summary="baiktra">
+      <option name="closed" value="true" />
+      <created>1769584612802</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1769584612802</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +266,10 @@
     <MESSAGE value="bài tập" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml" />
     <MESSAGE value="bài tập 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài tập 1" />
+    <MESSAGE value="gui bkt" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="baiktra" />
+    <option name="LAST_COMMIT_MESSAGE" value="baiktra" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DH10TT02C$B1.coverage" NAME="B1 Coverage Results" MODIFIED="1769572027653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
