@@ -10,4 +10,4 @@ while solan <= 3:
         print("Đăng nhập sai. Vui lòng nhập lại.")
         solan += 1
 else:
-    print("Ban da nhap sai qua 3 lan, tai khoan bi khoa!")
+    print("Tài khoản bạn đã bị khóa tạm thời!")
