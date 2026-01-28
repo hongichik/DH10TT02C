@@ -1,14 +1,14 @@
-a = float(input("Nhập cạnh a: "))
-b = float(input("Nhập cạnh b: "))
-c = float(input("Nhập cạnh c: "))
-if (a + b > c) and (a + c > b) and (b + c > a):
-    if a == b == c:
-        print("đây là tam giác đều: ")
-    elif a == b or b == c or c == a:
-        print("đây là tam giác cân: ")
-    elif (a**2 + b**2 == c**2) or (b**2 + c**2 == a**2) or (c**2 + a**2 == b**2):
-        print("đây là tam giác vuông: ")
-    else:
-        print("Đây là tam giác thường: ")
+a = int(input("nhập cạnh a: "))
+b = int(input("nhập cạnh b: "))
+c = int(input("nhập cạnh c: "))
+if (a + b <= c) or (b + c <= a) or (a + c <= b):
+    print("Khong phai tam giac")
 else:
-    print("đây không phải tam giác")
+    if a == b == c :
+        print("Tam giác đều")
+    elif a == b or b == c or a == c:
+        print("Tam giác cân")
+    elif a^2 + b^2 == c^2 or a^2 + c^2 == b^2 or b^2 + c^2 == a^2:
+        print("Tam giác vuông")
+    else:
+        print("Tam giác thường")
