@@ -12,5 +12,6 @@ if a + b > c and a + c > b and b + c > a:
         print("Tam giac thuong")
 else:
  print("Khong phai tam giac")
+ #bai1
     
    
