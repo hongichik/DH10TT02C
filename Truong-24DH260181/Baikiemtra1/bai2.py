@@ -1,4 +1,4 @@
-password_dung = "123"
+password_dung = "234"
 solanthu = 3
 while solanthu > 0:
     nhapmatkhau = input("Nhập mật khẩu: ")
