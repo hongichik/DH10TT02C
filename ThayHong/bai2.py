@@ -1,5 +1,5 @@
 dem = 0
-for i in range(1, 101):
-    if i % 3 == 0:
-        dem += 1
-print(dem)
+for i in range(1, 16,2):
+    if i == 3 or i == 11:
+        continue
+    print(i)
