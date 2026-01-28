@@ -1,5 +1,4 @@
-n = int(input("Nhập số n (>1): "))
-
+n = int(input("Nhập số nguyên dương n (>1)"))
 for i in range(2, n):
     if n % i == 0:
         print("Không phải số nguyên tố")

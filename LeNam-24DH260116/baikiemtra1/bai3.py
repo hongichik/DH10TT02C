@@ -8,4 +8,4 @@ else:
             print("Không phải là số nguyên tố")
             break
     else:
-        print("Là số nguyên tố")
+        print("Đây là số nguyên tố")

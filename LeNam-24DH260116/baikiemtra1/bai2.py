@@ -9,4 +9,4 @@ while count < 3:
         print("Mật khẩu sai vui lòng nhập lại")
         count += 1
 else:
-    print("Tài khoản của bạn bị khoá tạm thời")
+    print("Tài khoản bạn bị khoá tạm thời")
