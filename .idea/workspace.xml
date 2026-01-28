@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a1820d-aa39-4eb7-88f5-8064c7837097" name="Changes" comment="bài tập 2">
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/B1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="24a1820d-aa39-4eb7-88f5-8064c7837097" name="Changes" comment="bài tập 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,6 +241,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/.gitignore&#10;#&#9;.idea/DH10TT02C.iml&#10;#&#9;.idea/misc.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
@@ -253,12 +260,15 @@
     <MESSAGE value="bài tập 1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="bài tập 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài tập 2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="bài tập 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài tập 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DH10TT02C$bai3.coverage" NAME="bai3 Coverage Results" MODIFIED="1769573963957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162" />
     <SUITE FILE_PATH="coverage/DH10TT02C$bai1.coverage" NAME="bai1 Coverage Results" MODIFIED="1769573944746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162" />
-    <SUITE FILE_PATH="coverage/DH10TT02C$B1.coverage" NAME="B1 Coverage Results" MODIFIED="1769577356914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$B3.coverage" NAME="B3 Coverage Results" MODIFIED="1769593077030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$B1.coverage" NAME="B1 Coverage Results" MODIFIED="1769593069196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
     <SUITE FILE_PATH="coverage/DH10TT02C$bai2.coverage" NAME="bai2 Coverage Results" MODIFIED="1769572571070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162" />
     <SUITE FILE_PATH="coverage/DH10TT02C$B2.coverage" NAME="B2 Coverage Results" MODIFIED="1769576144422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
   </component>
