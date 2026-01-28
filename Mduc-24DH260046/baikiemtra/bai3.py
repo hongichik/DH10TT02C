@@ -9,4 +9,4 @@ else:
             break
     else:
         print(f"{n} là số nguyên tố")
-        #bai3
+        #bai3..

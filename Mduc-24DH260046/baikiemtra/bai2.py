@@ -12,4 +12,4 @@ while lan_thu < max_lan:
         lan_thu += 1
 else:
     print("Tài khoản của bạn đã bị khóa tạm thời")
-    #bai2
+    #bai2..
