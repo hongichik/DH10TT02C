@@ -1,4 +1,4 @@
-
+#
 n = int(input("Nhập số nguyên dương n (>1): "))
 
 for i in range(2, n):
