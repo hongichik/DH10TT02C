@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5419af6-e612-4428-813f-9f04d0036e8c" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nam-24DH260116/baikiemtra1/bai3.py" afterDir="false" />
-    </list>
+    <list default="true" id="a5419af6-e612-4428-813f-9f04d0036e8c" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +13,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "main"
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -54,7 +57,19 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM_[Changes]/shelved.patch&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_10_48_AM__Changes_.xml&#10;#&#9;.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2026_12_08_PM__Changes_.xml&#10;#&#9;.idea/workspace.xml" />
   </component>
