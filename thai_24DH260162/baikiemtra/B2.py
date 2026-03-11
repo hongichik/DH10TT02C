@@ -1,8 +1,8 @@
 mk = "Thainguyen"
 solan = 1
 while solan <= 3:
-    nhap = input("nhập mật khẩu: ")
-    if nhap == mk:
+    n = input("nhập mật khẩu: ")
+    if n == mk:
         print("đăng nhập thành công")
         break
     else:
