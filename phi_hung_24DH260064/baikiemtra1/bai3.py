@@ -1,11 +1,8 @@
-n = int(input("Nhập số nguyên dương n (>1): "))
+n = int(input("Nhap so nguyen duong n (>1): "))
 
-if n <= 1:
-    print("Không phải số nguyên tố")
+for i in range(2, n):
+    if n % i == 0:
+        print("Khong phai so nguyen to")
+        break
 else:
-    for i in range(2, n):
-        if n % i == 0:
-            print("Không phải số nguyên tố")
-            break
-    else:
-        print("Là số nguyên tố")
+    print("La so nguyen to")
