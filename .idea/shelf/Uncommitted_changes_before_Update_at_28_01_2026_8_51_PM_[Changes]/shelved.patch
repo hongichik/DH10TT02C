@@ -1,0 +1,17 @@
+Index: LeNam-24DH260116/Bài 2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/LeNam-24DH260116/Bài 2.py b/LeNam-24DH260116/Bài 2.py
+new file mode 100644
+--- /dev/null	(date 1769572764546)
++++ b/LeNam-24DH260116/Bài 2.py	(date 1769572764546)
+@@ -0,0 +1,6 @@
++count = 0
++
++for i in range(1, 101):
++    if i % 3 == 0:
++        count = count +1
++print(count)
+\ No newline at end of file
