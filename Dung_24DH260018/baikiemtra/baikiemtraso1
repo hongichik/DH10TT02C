@@ -1,0 +1,16 @@
+a = float (input("nhap canh a:"))
+b = float (input("nhap canh b:"))
+c = float (input("nhap canh c:"))
+
+if a+b <= c or b+c <= a or a+c <=b:
+    print("khong phai la tam giac")
+else:
+    if a==b==c:
+        print("tam giac deu")
+
+    if a*a+b*b==c*c or a*a+c*c==b*b  or b*b+c*c==a*a:
+        print("tam giac vuong")
+    if a==b or a==c or b==c:
+        print("tam giac can")
+    else:
+        print("tam giac thuong")
