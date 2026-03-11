@@ -5,7 +5,7 @@ def pt(a, b, c):
     elif b != 0:
         x = 0
         y = c/b
-    else
+    else:
         if c == 0:
             print("phuong trinh vo so nghiem")
             return
