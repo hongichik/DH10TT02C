@@ -7,15 +7,15 @@ def pt(a, b, c):
         y = c/b
     else:
         if c == 0:
-            print("phuong trinh vo so nghiem")
+            print("Phuong trinh vo so nghiem")
             return
         else:
-            print("phuong trinh vo so nghiem")
+            print("Phuong trinh vo so nghiem")
             return
-    print("nghiem cua phuong trinh: ")
+    print("Nghiem cua phuong trinh: ")
     print("x =", x)
     print("y =", y)
-a = float(input("nhap a"))
-b = float(input("nhap b"))
-c = float(input("nhap c"))
+a = float(input("Nhap a: "))
+b = float(input("Nhap b: "))
+c = float(input("Nhap c: "))
 pt(a, b, c)
