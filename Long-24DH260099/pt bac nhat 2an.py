@@ -16,8 +16,8 @@ def pt2an(a, b, c):
     print("x =", x)
     print("y =", y)
 
-a = float(input("nhap a"))
-b = float(input("nhap b"))
-c = float(input("nhap c"))
+a = float(input("nhap a: "))
+b = float(input("nhap b: "))
+c = float(input("nhap c: "))
 
 pt2an(a, b, c)
