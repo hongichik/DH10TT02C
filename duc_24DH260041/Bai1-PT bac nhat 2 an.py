@@ -15,7 +15,7 @@ def ptbacnhat2an(a, b, c):
     print("Nghiem cua pt:")
     print("x =", x)
     print("y = ", y)
-
+#
 a = float(input("Nhap a:"))
 b = float(input("Nhap b:"))
 c = float(input("Nhap c:"))
