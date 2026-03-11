@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0602131a-b79f-44fb-98f4-5e131d7ba5c2" name="Changes" comment="bài ktra 1 bai 3">
+    <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="bài 3">
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,41 +21,63 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Duyanh-netizen&quot;
+    &quot;assignee&quot;: &quot;duongvipubqn&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/hongichik/DH10TT02C.git&quot;,
-    &quot;accountId&quot;: &quot;12254966-a11e-4550-bbef-36c91d934596&quot;
+    &quot;url&quot;: &quot;git@github.com:hongichik/DH10TT02C.git&quot;,
+    &quot;accountId&quot;: &quot;aaf1f63a-1c9c-4d72-b042-c9184ac18888&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="38roBbMAyAi3s3iEAGongLWiTvf" />
+  <component name="ProjectId" id="38rmB6w8HHDp678wVzZqN2PL3Fw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Bai1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bài 1.executor": "Run",
+    "Python.Bài 2.executor": "Run",
+    "Python.bai1.executor": "Run",
+    "Python.bai2.executor": "Run",
+    "Python.bai3.executor": "Run",
+    "Python.bai4.executor": "Run",
+    "Python.count.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Xmax/Documents/Python/DH10TT02C/Duong_24DH260027",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Xmax\Documents\Python\DH10TT02C\Duong_24DH260027" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,100 +87,136 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0602131a-b79f-44fb-98f4-5e131d7ba5c2" name="Changes" comment="" />
-      <created>1769566921564</created>
+      <changelist id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="" />
+      <created>1769565931948</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1769566921564</updated>
-      <workItem from="1769566923056" duration="5593000" />
-      <workItem from="1773191777968" duration="182000" />
+      <updated>1769565931948</updated>
+      <workItem from="1769565934406" duration="6565000" />
+      <workItem from="1773191708309" duration="44000" />
     </task>
-    <task id="LOCAL-00001" summary="bài ktra 1 bai 1">
+    <task id="LOCAL-00001" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1769571555943</created>
+      <created>1769567353329</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1769571555943</updated>
+      <updated>1769567353329</updated>
     </task>
-    <task id="LOCAL-00002" summary="bài ktra 1 bai 2">
+    <task id="LOCAL-00002" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1769571568752</created>
+      <created>1769568126327</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1769571568752</updated>
+      <updated>1769568126327</updated>
     </task>
-    <task id="LOCAL-00003" summary="bài ktra 1 bai 1">
+    <task id="LOCAL-00003" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1769571690779</created>
+      <created>1769568182826</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1769571690779</updated>
+      <updated>1769568182826</updated>
     </task>
-    <task id="LOCAL-00004" summary="bài ktra 1 bai 1">
+    <task id="LOCAL-00004" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1769571767449</created>
+      <created>1769568333275</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1769571767449</updated>
+      <updated>1769568333275</updated>
     </task>
-    <task id="LOCAL-00005" summary="bài ktra 1 bai 3">
+    <task id="LOCAL-00005" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1769572027350</created>
+      <created>1769568398662</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1769572027350</updated>
+      <updated>1769568398662</updated>
     </task>
-    <task id="LOCAL-00006" summary="bài ktra 1 bai 3">
+    <task id="LOCAL-00006" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1773199786220</created>
+      <created>1769568656143</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1773199786223</updated>
+      <updated>1769568656143</updated>
     </task>
-    <task id="LOCAL-00007" summary="bài ktra 1 bai 3">
+    <task id="LOCAL-00007" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1773201118344</created>
+      <created>1769568742042</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1773201118344</updated>
+      <updated>1769568742042</updated>
     </task>
-    <task id="LOCAL-00008" summary="bài ktra 1 bai 3">
+    <task id="LOCAL-00008" summary="sửa bài">
       <option name="closed" value="true" />
-      <created>1773201409496</created>
+      <created>1769571398058</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1773201409496</updated>
+      <updated>1769571398058</updated>
     </task>
-    <task id="LOCAL-00009" summary="bài ktra 1 bai 3">
+    <task id="LOCAL-00009" summary="làm bài kiểm tra">
       <option name="closed" value="true" />
-      <created>1773201630830</created>
+      <created>1769571553531</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1773201630830</updated>
+      <updated>1769571553531</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="bài 3">
+      <option name="closed" value="true" />
+      <created>1773200454015</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773200454015</updated>
+    </task>
+    <task id="LOCAL-00011" summary="bài 3">
+      <option name="closed" value="true" />
+      <created>1773200476343</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773200476343</updated>
+    </task>
+    <task id="LOCAL-00012" summary="bài 3">
+      <option name="closed" value="true" />
+      <created>1773201366648</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773201366648</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bài 3">
+      <option name="closed" value="true" />
+      <created>1773201425678</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773201425678</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bài ktra 1 bai" />
-    <MESSAGE value="bài ktra 1 bai 2" />
-    <MESSAGE value="bài ktra 1 bai 1" />
-    <MESSAGE value="bài ktra 1 bai 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài ktra 1 bai 3" />
+    <MESSAGE value="sửa bài" />
+    <MESSAGE value="làm bài kiểm tra" />
+    <MESSAGE value="bài 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DH10TT02C$Bai1.coverage" NAME="Bai1 Coverage Results" MODIFIED="1769570286021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duyanh_24Dh260006/BaiKiemTra1" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$Bài_2.coverage" NAME="Bài 2 Coverage Results" MODIFIED="1769567294631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duong_24DH260027" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai3.coverage" NAME="bai3 Coverage Results" MODIFIED="1769571379053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duong_24DH260027/baikiemtra1" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai1.coverage" NAME="bai1 Coverage Results" MODIFIED="1769570255173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duong_24DH260027/baikiemtra1" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai2.coverage" NAME="bai2 Coverage Results" MODIFIED="1769570740462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duong_24DH260027/baikiemtra1" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$Bài_1.coverage" NAME="Bài 1 Coverage Results" MODIFIED="1769567199688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duong_24DH260027" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$count.coverage" NAME="count Coverage Results" MODIFIED="1769566041211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duong_24DH260027" />
   </component>
 </project>
