@@ -3,7 +3,7 @@ def TamGiacVuong(n):
         print(" * "*i)
 
 TamGiacVuong(5)
-print("----------")
+print("-----------")
 def TamGiacCan(n):
     for i in range(n):
         print("  "*(n-i-1), end="")
