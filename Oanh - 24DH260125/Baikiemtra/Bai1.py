@@ -1,15 +1,14 @@
-a = float(input('Nhap canh a: '))
-b = float(input('Nhap canh b: '))
-c = float(input('Nhap canh c: '))
-if a + b + c ==0:
-    print('Day khong phai la tam giac ')
-else:
-    if a ==b ==c:
-        print('Day la tam giac deu')
+a = int(input("Nhập cạnh thứ 1 :"))
+b = int(input("Nhập cạnh thứ 2 :"))
+c = int(input("Nhập cạnh thứ 3 :"))
+if (a+b>c) and (a+c>b) and (b+c>a):
+    if a == b == c:
+        print("Tam giác đều")
     elif a == b or b == c or c == a:
-        print('Day  la tam giac can ')
-    elif a*a == b*b or b*b == c*c == a*a or a*a == b*b or b*b == c*c:
-        print('Day  la tam giac vuong ')
+        print("Tam giác cân")
+    elif (a**2 + b**2 == c**2) or (a**2 + c**2 == b**2) or (b**2 + c**2 == a**2):
+        print("Tam giác vuông")
     else:
-        print('Day  la tam giac thuong ')
-#bai1
+        print("Tam giác thường")
+else:
+    print("Đây không phải tam giác")
