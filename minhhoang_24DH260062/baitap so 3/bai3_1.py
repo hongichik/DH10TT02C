@@ -4,4 +4,4 @@ def convat (name):
 convat("meo")
 convat("cho")
 convat("lon")
-convat("ga"
+convat("ga")
