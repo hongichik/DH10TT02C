@@ -14,3 +14,4 @@ if a + b > c and a + c > b and b + c > a:
         print("Tam giác thường")
 else:
     print("Không phải tam giác!")
+
