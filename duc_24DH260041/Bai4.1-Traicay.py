@@ -1,4 +1,4 @@
-traicay = {"cam", "quyt", "buoi", "chanh", "tao"}
+traicay = ["cam", "quyt", "buoi", "chanh", "tao"]
 traicay.append("nho")
 print(traicay)
 traicay[1]="xoai"
