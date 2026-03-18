@@ -7,4 +7,4 @@ if n > 1:
     else:
         print("Là số nguyên tố")
 else:
-    print("Vui lòng nhập lại số lớn hơn 1")
+    print("Vui lòng nhập lại số +lớn hơn 1")

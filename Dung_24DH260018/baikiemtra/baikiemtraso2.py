@@ -12,4 +12,5 @@ while so_lan > 0:
         if so_lan > 0:
             print("Mật khẩu sai, vui lòng nhập lại!")
 else:
-    print("Tài khoản của bạn đã bị khóa tạm thời")
+    print("Tài khoản của bạn đã bị khóa tạm thời"
+
