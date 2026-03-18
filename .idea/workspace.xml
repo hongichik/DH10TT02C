@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="bài 3" />
+    <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="bài 3">
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_4_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VietAnh - 24DH260007/baikiemtra1/Bai_5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DH10TT02C.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DH10TT02C.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +59,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bai_3_1.executor": "Run",
+    "Python.Bai_4_1.executor": "Run",
+    "Python.Bai_4_3.executor": "Run",
+    "Python.Bai_4_5.executor": "Run",
+    "Python.Bai_4_6.executor": "Run",
+    "Python.Bai_5_1.executor": "Run",
+    "Python.Bai_5_2.executor": "Run",
     "Python.Bài 1.executor": "Run",
     "Python.Bài 2.executor": "Run",
     "Python.bai1.executor": "Run",
     "Python.bai2.executor": "Run",
     "Python.bai3.executor": "Run",
+    "Python.bai_4_2.executor": "Run",
     "Python.count.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -192,6 +211,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sửa bài" />
