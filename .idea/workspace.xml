@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="bài 4">
-      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DH10TT02C.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DH10TT02C.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773201875656</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="bài 4">
+      <option name="closed" value="true" />
+      <created>1773799132399</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773799132399</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
