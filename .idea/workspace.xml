@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="18/3/2026">
-      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai3_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duong_24DH260027/bai4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
     "Python.bai4_1.executor": "Run",
     "Python.bai4_2.executor": "Run",
     "Python.bai4_3.executor": "Run",
+    "Python.bai4_4.executor": "Run",
     "Python.count.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -230,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773799202389</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="18/3/2026">
+      <option name="closed" value="true" />
+      <created>1773799389561</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773799389561</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
