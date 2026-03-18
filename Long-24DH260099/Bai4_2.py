@@ -1,17 +1,15 @@
-ca_nhan = {
-    "ten": "Long",
-    "tuoi": 20,
-    "nghe_nghiep": "Sinh viên",
-}
-
-print(ca_nhan)
-
-ca_nhan["email"] = "Nhatlonghl2512@gmail.com"
-
-print(ca_nhan)
-
-ca_nhan["tuoi"] = 25
-print(ca_nhan)
-
-ca_nhan.pop("nghe_nghiep")
-print(ca_nhan)
+diemso = [8.5, 7.0, 9.0, 6.5, 8.0]
+tb = sum(diemso) / len(diemso)
+print("DTB: ", tb)
+diemso.append(7.5)
+print("Sau khi them diem: ", diemso)
+diemso.remove(min(diemso))
+print("Sau khi xoa diem nho nhat: ", diemso)
+############################################
+dsms = ["Lap xuong", "Coca", "Sanwich", "Kho ga"]
+dsms.insert(1,"Gao")
+print(dsms)
+if "Lap xuong" in dsms:
+    print("Danh sach co trung")
+dsms.sort()
+print("Danh sach mua sam sau khi sap xep: ", dsms)
