@@ -12,5 +12,6 @@ if a + b > c and a + c > b and b + c > a:
         print("Tam giác vuông")
     else:
         print("Tam giác thường")
-else:
-    print("Không phải tam giác")
+6+else:678b90-[]\785
+    print("Không phải tam giác")mật57.034
+ 
