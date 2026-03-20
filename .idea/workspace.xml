@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="bài ktra 1 bai 3">
+    <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="18/3/2026">
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duyanh_24Dh260006/BaiKiemtra/BaiKiemTra.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duyanh_24Dh260006/Baingay 11-3/3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duyanh_24Dh260006/Baingay11-3/3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duyanh_24Dh260006/Baingay28/Bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duyanh_24Dh260006/Baingay28/Bai1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duyanh_24Dh260006/Baingay28/Bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Duyanh_24Dh260006/Baingay28/Bai2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,31 +53,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Bài 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bài 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bai1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bai2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bai3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bai4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Xmax/Documents/Python/DH10TT02C/Duong_24DH260027&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bài 1.executor": "Run",
+    "Python.Bài 2.executor": "Run",
+    "Python.bai1.executor": "Run",
+    "Python.bai2.executor": "Run",
+    "Python.bai3.executor": "Run",
+    "Python.bai4.executor": "Run",
+    "Python.bai4_1.executor": "Run",
+    "Python.bai4_10.executor": "Run",
+    "Python.bai4_2.executor": "Run",
+    "Python.bai4_3.executor": "Run",
+    "Python.bai4_4.executor": "Run",
+    "Python.bai4_5.executor": "Run",
+    "Python.bai4_6.executor": "Run",
+    "Python.bai4_7.executor": "Run",
+    "Python.bai4_8.executor": "Run",
+    "Python.bai4_9.executor": "Run",
+    "Python.count.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Xmax/Documents/Python/DH10TT02C/Duong_24DH260027",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Xmax\Documents\Python\DH10TT02C\Duong_24DH260027" />
@@ -202,28 +214,59 @@
       <option name="project" value="LOCAL" />
       <updated>1773201425678</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="bài 4">
+      <option name="closed" value="true" />
+      <created>1773201875656</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773201875656</updated>
+    </task>
+    <task id="LOCAL-00015" summary="bài 4">
+      <option name="closed" value="true" />
+      <created>1773799132399</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773799132399</updated>
+    </task>
+    <task id="LOCAL-00016" summary="18/3/2026">
+      <option name="closed" value="true" />
+      <created>1773799202389</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773799202389</updated>
+    </task>
+    <task id="LOCAL-00017" summary="18/3/2026">
+      <option name="closed" value="true" />
+      <created>1773799389561</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773799389561</updated>
+    </task>
+    <task id="LOCAL-00018" summary="18/3/2026">
+      <option name="closed" value="true" />
+      <created>1773800792750</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1773800792750</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sửa bài" />
     <MESSAGE value="làm bài kiểm tra" />
     <MESSAGE value="bài 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài 3" />
+    <MESSAGE value="bài 4" />
+    <MESSAGE value="18/3/2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="18/3/2026" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DH10TT02C$Bài_2.coverage" NAME="Bài 2 Coverage Results" MODIFIED="1769567294631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Duong_24DH260027" />
