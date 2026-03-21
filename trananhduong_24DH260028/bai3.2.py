@@ -15,8 +15,8 @@ def pt(a,b,c):
     print("Nghiem Cua Phuong Trinh:")
     print("x =",x)
     print("y =",y)
-a = float(input("Nhap a:"))
-b = float(input("Nhap b:"))
-c = float(input("Nhap c:"))
+a = float(input("Nhap a: "))
+b = float(input("Nhap b: "))
+c = float(input("Nhap c: "))
 
 pt(a, b, c)
