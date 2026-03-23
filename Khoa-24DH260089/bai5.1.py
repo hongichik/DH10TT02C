@@ -1,0 +1,5 @@
+Khoa = open("Khoa/bai5/demo.txt, "w", encoding ="utf-8")
+Khoa.write("Xin chao, day la mot file demo.\n bfkjhgs")
+Khoa.write("Chung ta dang hoc ve file trong Python.")
+Khoa.writelines(["\nDong 1\n", "Dong 2\n", "Dong 3\n"])
+Khoa.close()
