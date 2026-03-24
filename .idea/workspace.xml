@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c69e1e2e-fd54-4b65-80f1-c9f694b4847f" name="Changes" comment="bài tập 1">
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dang-24DH260039/bai3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dang-24DH260039/bai3_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,51 +46,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.bai1.executor": "Run",
-    "Python.bai4.1.executor": "Run",
-    "Python.bai4_1.executor": "Run",
-    "Python.bai4_10.executor": "Run",
-    "Python.bai4_2.executor": "Run",
-    "Python.bai4_3.executor": "Run",
-    "Python.bai4_4.executor": "Run",
-    "Python.bai4_5.executor": "Run",
-    "Python.bai4_6.executor": "Run",
-    "Python.bai4_8.executor": "Run",
-    "Python.bai4_9.executor": "Run",
-    "Python.bai5_1.executor": "Run",
-    "Python.code.executor": "Run",
-    "Python.demo.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/python/DH10TT02C",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "settings.editor.splitter.proportion": "0.25280327",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai4_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/python/DH10TT02C&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.25280327&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="bai4.1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DH10TT02C" />
@@ -111,7 +101,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (DH10TT02C)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mduc-24DH260046" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
