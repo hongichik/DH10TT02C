@@ -1,4 +1,0 @@
-Hello,this is a demo file.Chung ta dang hoc ve file trong Python.
-Dòng 1
-Dòng 2
-Dòng 3
