@@ -1,0 +1,5 @@
+hieu = open("Hieu-24DH260051/bai5/demo.txt", "w", encoding="utf-8")
+hieu.write("xin chao, day la mot file demo.\n nfkjhgs")
+hieu.write("Chung ta dang hoc ve file trong Python.")
+hieu.writelines(["\nDong 1\n","Dong 2\n", "Dong 3\n"])
+hieu.close()
