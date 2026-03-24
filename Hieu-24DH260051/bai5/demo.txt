@@ -1,0 +1,5 @@
+xin chao, day la mot file demo.
+ nfkjhgsChung ta dang hoc ve file trong Python.
+Dong 1
+Dong 2
+Dong 3

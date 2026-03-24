@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c69e1e2e-fd54-4b65-80f1-c9f694b4847f" name="Changes" comment="bài tập 1">
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thai_24DH260162/baikiemtra/bai4_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="nhom5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="38EUeQW4N1seFvvuPAyfm86tgHf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.bai1.executor": "Run",
+    "Python.bai4.1.executor": "Run",
+    "Python.bai4_1.executor": "Run",
+    "Python.bai4_10.executor": "Run",
+    "Python.bai4_2.executor": "Run",
+    "Python.bai4_3.executor": "Run",
+    "Python.bai4_4.executor": "Run",
+    "Python.bai4_5.executor": "Run",
+    "Python.bai4_6.executor": "Run",
+    "Python.bai4_8.executor": "Run",
+    "Python.bai4_9.executor": "Run",
+    "Python.bai5_1.executor": "Run",
+    "Python.code.executor": "Run",
+    "Python.demo.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/python/DH10TT02C",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.splitter.proportion": "0.25280327",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="bai4.1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DH10TT02C" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (DH10TT02C)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mduc-24DH260046" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mduc-24DH260046/bai4.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c69e1e2e-fd54-4b65-80f1-c9f694b4847f" name="Changes" comment="" />
+      <created>1768364321013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768364321013</updated>
+      <workItem from="1768364322083" duration="261000" />
+      <workItem from="1768748015898" duration="10776000" />
+      <workItem from="1768761461928" duration="314000" />
+      <workItem from="1768910839157" duration="29000" />
+      <workItem from="1768959107544" duration="1686000" />
+      <workItem from="1768960868188" duration="2658000" />
+      <workItem from="1774275262513" duration="1316000" />
+    </task>
+    <task id="LOCAL-00001" summary="test của Thái">
+      <option name="closed" value="true" />
+      <created>1768364464328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768364464328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test của Thái">
+      <option name="closed" value="true" />
+      <created>1768755643323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768755643323</updated>
+    </task>
+    <task id="LOCAL-00003" summary="xóa">
+      <option name="closed" value="true" />
+      <created>1768758660461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768758660461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bài tập 36">
+      <option name="closed" value="true" />
+      <created>1768761668496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768761668496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test của Thái" />
+    <MESSAGE value="xóa" />
+    <MESSAGE value="bài tập 36" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài tập 36" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DH10TT02C$code.coverage" NAME="code Coverage Results" MODIFIED="1768960892767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_4.coverage" NAME="bai4_4 Coverage Results" MODIFIED="1774275822419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_9.coverage" NAME="bai4_9 Coverage Results" MODIFIED="1774276417665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_1.coverage" NAME="bai4_1 Coverage Results" MODIFIED="1774275618673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_2.coverage" NAME="bai4_2 Coverage Results" MODIFIED="1774275699027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_5.coverage" NAME="bai4_5 Coverage Results" MODIFIED="1774275900854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_8.coverage" NAME="bai4_8 Coverage Results" MODIFIED="1774276416057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$demo.coverage" NAME="demo Coverage Results" MODIFIED="1768761509643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_6.coverage" NAME="bai4_6 Coverage Results" MODIFIED="1774275971046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai1.coverage" NAME="bai1 Coverage Results" MODIFIED="1768963517445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai5_1.coverage" NAME="bai5_1 Coverage Results" MODIFIED="1774275433037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hieu-24DH260051/bai5" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_3.coverage" NAME="bai4_3 Coverage Results" MODIFIED="1774275788014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+    <SUITE FILE_PATH="coverage/DH10TT02C$bai4_10.coverage" NAME="bai4_10 Coverage Results" MODIFIED="1774276413072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thai_24DH260162/baikiemtra" />
+  </component>
+</project>
