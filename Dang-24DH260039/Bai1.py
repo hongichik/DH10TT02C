@@ -1,6 +1,6 @@
 try:
     dtb = float(input("Nhập điểm trung bình: "))
-
+    
     if dtb >= 8.5:
         print("Học sinh giỏi")
     elif dtb >= 7:
