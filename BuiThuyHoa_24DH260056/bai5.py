@@ -1,0 +1,5 @@
+hoa = open("Hoa/bai5/demo.txt", "w", encoding="utf-8")
+hoa.write("Xinchao, đây là một file demo.\n bfkjhgs")
+hoa.write("Chúng ta đang học về file trong Python!")
+hoa.writelines(["\nDong 1\n", "\nDong 2\n", "\nDong 3\n"])
+hoa.close()
