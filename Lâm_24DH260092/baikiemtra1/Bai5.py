@@ -1,0 +1,5 @@
+file =open("demo.txt","w",encoding="utf-8")
+file.writelines("hello, this is a demo file.")
+file.write("Chung ta dang hoc vè file trong python")
+file.writelines(["\nDong 1\n","Dong 2\n","Dong 3\n"])
+file.close()
