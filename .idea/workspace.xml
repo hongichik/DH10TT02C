@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="18/3/2026">
       <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_10.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_5.py" afterDir="false" />
@@ -12,6 +13,10 @@
       <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_8.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Duong_24DH260027/bai4_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="41463b97-8961-4808-be05-b16c8d958eaf" name="Changes" comment="bài ktra 1 bai 3">
+      <change afterPath="$PROJECT_DIR$/Dung_24DH260018/code.py" afterDir="false" />
+>>>>>>> 19f056b (Nop bai tap 18-3)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +63,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Bài 1.executor": "Run",
     "Python.Bài 2.executor": "Run",
+<<<<<<< HEAD
+=======
+    "Python.Unnamed.executor": "Run",
+>>>>>>> 19f056b (Nop bai tap 18-3)
     "Python.bai1.executor": "Run",
     "Python.bai2.executor": "Run",
     "Python.bai3.executor": "Run",
     "Python.bai4.executor": "Run",
+<<<<<<< HEAD
     "Python.bai4_1.executor": "Run",
     "Python.bai4_10.executor": "Run",
     "Python.bai4_2.executor": "Run",
@@ -72,6 +82,8 @@
     "Python.bai4_7.executor": "Run",
     "Python.bai4_8.executor": "Run",
     "Python.bai4_9.executor": "Run",
+=======
+>>>>>>> 19f056b (Nop bai tap 18-3)
     "Python.count.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
