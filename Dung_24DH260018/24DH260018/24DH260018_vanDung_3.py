@@ -13,7 +13,6 @@ def nhap_sanpham():
     san_pham = {"maSP": ma, "tenSP": ten, "gia": gia}
     return san_pham
 
-
 # b. Hàm tính tổng giá
 def tong_gia(sanpham):
     if len(sanpham) == 0:
