@@ -1,0 +1,5 @@
+DANH SÁCH SẢN PHẨM
+Mã SP: 01, Tên SP: sũa chua, Giá: 100
+Mã SP: 02, Tên SP: bimbim, Giá: 50
+
+Giá trung bình: 75.0

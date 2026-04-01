@@ -1,0 +1,5 @@
+DANH SÁCH SẢN PHẨM
+Mã SP: 1, Tên SP: sua, Giá: 200
+Mã SP: 2, Tên SP: 100, Giá: 400
+
+Giá trung bình: 300.0
