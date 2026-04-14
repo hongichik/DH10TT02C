@@ -1,0 +1,4 @@
+hello, this is a demo file.Chung ta dang hoc vè file trong python
+Dong 1
+Dong 2
+Dong 3
